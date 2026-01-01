@@ -1,5 +1,4 @@
-## ✅ My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,py,js,ts)](https://skillicons.dev)
-
-## 🌱 Now Training
-[![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,firebase)](https://skillicons.dev)
+## ✏️ Blog
+[Zenn](https://zenn.dev/isosea)
+## ✅ What I Use
+[![What I Use](https://skillicons.dev/icons?i=vscode,html,css,ruby,rails,py,ts,react,flutter,firebase,gherkin)](https://skillicons.dev)
